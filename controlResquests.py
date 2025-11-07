@@ -4,11 +4,12 @@ import mysql.connector
 from mysql.connector import Error
 from fastapi.responses import JSONResponse
 
+# conexão com  o banco de dados
 conexao = mysql.connector.connect(
     host='localhost',
-    user='root',
-    password='q1w2e3r4',
-    database='bd_usuarios',
+    user='xxx',
+    password='xxxx',
+    database='xxxx',
 )
 
 
