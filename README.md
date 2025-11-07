@@ -62,3 +62,4 @@ requirements.txt: Lista as bibliotecas Python necessárias para rodar o projeto.
 
 Autor
 Valclebio Silva - GitHub
+
